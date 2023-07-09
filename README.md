@@ -1,2 +1,3 @@
 # Desafio Phyton
- Esses são todos os desafios do curso em vídeo em Phyton
+ Esse é o desafio da aula do curso em vídeo do Prof. Gustavo Guanabara, estou aprendeno a programa em pyhton foi feito na data de hoje 09/07/23. 
+ 
